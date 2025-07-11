@@ -38,9 +38,9 @@ This project explores over 2 million records of household electricity consumptio
 
 ## 📂 Files
 
-- `Final_report_Group5.docx` — Detailed project report  
+- `Final_report.docx` — Detailed project report  
 - `EDA_Report_Household_Power_Consumption.docx` — Exploratory data analysis  
-- `Draft report.docx` — Model development drafts  
+- `Draft report.docx` — Model development drafts
 
 ## 🧠 Author
 **Mohammed Saif Wasay**  
